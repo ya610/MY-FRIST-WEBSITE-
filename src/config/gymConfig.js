@@ -38,7 +38,7 @@ export const gymConfig = {
 
   // ---- Hero ----
   hero: {
-    title: "SKSKJJFJK.",
+    title: "yash.",
     subtitle: "Train with purpose. Transform your body. Change your life.",
     primaryCta: "START YOUR JOURNEY",
     secondaryCta: "VIEW PROGRAMS",
