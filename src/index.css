@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #e63946;
+  --color-secondary: #0a0a0a;
+  --color-surface: #141414;
+  --color-muted: #a1a1a1;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-base text-white font-body antialiased; }
